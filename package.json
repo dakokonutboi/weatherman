@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/dakokonutboi/weatherman#readme",
   "devDependencies": {
-    "electron": "8.3.0"
+    "electron": "8.3.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }
